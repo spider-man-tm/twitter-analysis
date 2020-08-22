@@ -1,0 +1,11 @@
+src/config_real.py
+__pycache__
+.vscode
+.vscode
+.venv
+Pipfile.lock
+output/user_data/user_tweet_data.txt
+output/user_data/user_tweet_data_ranking.txt
+output/word_data/time_data.txt
+output/word_data/tweet_data.txt
+output/word_data/user_data.txt
