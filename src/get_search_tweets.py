@@ -32,8 +32,8 @@ params = {
     'count': 300,
     'result_type': 'recent',
     'exclude': 'retweets',  # リツイートを含まない
-    'since': '2020-08-15_00:00:00_JST',
-    'until': '2020-08-22_00:00:00_JST',
+    'since': SINCE,
+    'until': UNTIL,
 }
 
 f_out = open('output/word_data/tweet_data.txt', 'w')
